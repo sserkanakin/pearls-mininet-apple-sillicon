@@ -12,6 +12,8 @@ git clone https://github.com/mininet/mininet
 sed -i 's/cgroup-bin/cgroup-tools/g' mininet/util/install.sh
 sudo PYTHON=python2 mininet/util/install.sh -nfvp
 (cd pox && sudo git checkout $POX_VERSION)
-cd ..
+ls
+cd
+cd Desktop/pearls-mininet-apple-sillicon-main
 unzip pearls_mininet.zip
-sudo ln -s ~/pearls_mininet/pox/* ~/pox/pox/misc/
+sudo ln -s ~/pearls_mininet/src/pox/* ~/Desktop/pearls-mininet-apple-sillicon-main/pox/pox/misc/
