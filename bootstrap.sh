@@ -16,4 +16,4 @@ ls
 cd
 cd Desktop/pearls-mininet-apple-sillicon-main
 unzip pearls_mininet.zip
-sudo ln -s ~/Desktop/pearls-mininet-apple-sillicon-main/pearls_mininet/src/pox/* ~/Desktop/pearls-mininet-apple-sillicon-main/pox/pox/misc/
+sudo ln -s ~/Desktop/pearls-mininet-apple-sillicon-main/pearls_mininet/pearls_mininet/src/pox/* ~/Desktop/pearls-mininet-apple-sillicon-main/pox/pox/misc/
